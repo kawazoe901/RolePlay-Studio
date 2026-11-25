@@ -11,6 +11,16 @@ A **local-first, all-in-one interactive AI role-play studio** that brings togeth
 
 ---
 
+## Screenshots
+
+### Role-Play Chat Workspace
+![Role-Play Chat Workspace](docs/screenshots/chat-workspace.png)
+
+### Service Hub (Ollama, LM Studio, LAN & Tailscale Access)
+![Service Hub](docs/screenshots/service-hub.png)
+
+---
+
 ## Why RolePlay Studio?
 
 - **Zero-Friction Start**: Runs locally in seconds. **Microsoft Edge Neural TTS works out of the box with 0 VRAM**, and **ComfyUI / GPT-SoVITS are completely optional**.
