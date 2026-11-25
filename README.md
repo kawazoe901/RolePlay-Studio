@@ -13,6 +13,9 @@ A **local-first, all-in-one interactive AI role-play studio** that brings togeth
 
 ## Screenshots
 
+### Characters & World Hub
+![Characters & World Hub](docs/screenshots/characters-hub.png)
+
 ### Role-Play Chat Workspace
 ![Role-Play Chat Workspace](docs/screenshots/chat-workspace.png)
 
